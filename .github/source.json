@@ -1,0 +1,65 @@
+{
+  "images": {
+    ".github/desktop.webp": "ffa411efac99fbcf848259509bf0964c35b192bb6f7f5cb12b95e3e99718a546",
+    "preview.png": "d36370f3b2ed2873f25c1c4b8f97d6029e40975ecb41262842790042cb3c79a4"
+  },
+  "omarchy_commit": "246f33a2fef66411c990860d88e0823ae83987fc",
+  "source_commit": "2ec3d56f885cf10bb5992f6c2f1eda77506ead8c",
+  "source_files": {
+    "LICENSE": {
+      "path": "LICENSE",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "THIRD_PARTY_NOTICES.md": {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "sha256": "a599e68cc05fffb72278bf102a294090c3c3657a03d985e1edb16b0b6fd9e106"
+    },
+    "backgrounds/01-paper.png": {
+      "blob": "cff04da6122a3f0a4b80d04bee4721d8e418ef71",
+      "path": "themes/modus-operandi/backgrounds/01-paper.png",
+      "sha256": "c87fdaec3e46b2c9e6f627d2ee511bb20d321c9b6483c9d906a28b903dd7d65f"
+    },
+    "btop.theme": {
+      "blob": "7d92f28c6f6e861f547f4f412486a94209af45d8",
+      "path": "themes/modus-operandi/btop.theme",
+      "sha256": "6856570a2006668a686f2ba3492a3dac0f3d3f6a9d2e329ca4cfdf1f5f442063"
+    },
+    "chromium.theme": {
+      "blob": "20c1883a8f491d5896debef8f440f7af1056f407",
+      "path": "themes/modus-operandi/chromium.theme",
+      "sha256": "c4244ff772330f64886d6f4936af10975bf50676d3b59a9722063f694ecf4736"
+    },
+    "colors.toml": {
+      "blob": "85bb944dc80f7c5ee3e33ba90624c64788d60b9b",
+      "path": "themes/modus-operandi/colors.toml",
+      "sha256": "eda36d022e6933e7c3455050bae2eef2cd2d9a6b2302f0b6ef90f4382f2f1f02"
+    },
+    "helix.toml": {
+      "blob": "b5adc75af13227263746bf06597f098a0f9a0c42",
+      "path": "themes/modus-operandi/helix.toml",
+      "sha256": "abc3e0a6fb0d1685aff5a6ff85453e0107b6b1f25d29045004d8f0d4da336e6f"
+    },
+    "icons.theme": {
+      "blob": "6ce2f147cd5190a376d531fd90431099e365dc3e",
+      "path": "themes/modus-operandi/icons.theme",
+      "sha256": "75be55b00f24a3cfc708db729e9bca23765e8ef0991d6889fbb2fd4d29581209"
+    },
+    "light.mode": {
+      "blob": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "path": "themes/modus-operandi/light.mode",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "shell.toml": {
+      "blob": "3cba6b94e0411c441f4968dabe93b6e48d0a6190",
+      "path": "themes/modus-operandi/shell.toml",
+      "sha256": "0fce46789535d5807751f58053ebc2dc390a9ebe80de8467c564b9edeae51762"
+    },
+    "vscode-theme.json": {
+      "blob": "f2be6ef7d76992269044781a11eeaa75691d5330",
+      "path": "themes/modus-operandi/vscode-theme.json",
+      "sha256": "3c63f3edcf3ecb3c6eb0671d0d8770918794b50db8c4cecb4c4d095b7697f998"
+    }
+  },
+  "source_repository": "https://github.com/codingquark/omarchy-modus-themes",
+  "variant": "modus-operandi"
+}
